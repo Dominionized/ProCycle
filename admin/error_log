@@ -1,0 +1,160 @@
+[17-Apr-2013 12:53:59] PHP Parse error:  syntax error, unexpected ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1325
+[17-Apr-2013 12:54:03] PHP Parse error:  syntax error, unexpected ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1325
+[17-Apr-2013 12:54:42] PHP Parse error:  syntax error, unexpected ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1333
+[17-Apr-2013 12:54:46] PHP Parse error:  syntax error, unexpected ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1333
+[17-Apr-2013 12:54:50] PHP Parse error:  syntax error, unexpected ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1333
+[17-Apr-2013 12:55:26] PHP Parse error:  syntax error, unexpected ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1333
+[18-Apr-2013 17:45:37] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/index.php on line 43
+[19-Apr-2013 07:54:10] PHP Fatal error:  Call to undefined function  curpageurl() in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/index.php on line 42
+[19-Apr-2013 08:45:03] PHP Parse error:  syntax error, unexpected '<' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 42
+[19-Apr-2013 08:45:06] PHP Parse error:  syntax error, unexpected '<' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 42
+[19-Apr-2013 08:46:00] PHP Parse error:  syntax error, unexpected '<' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 42
+[19-Apr-2013 09:02:28] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 19
+[19-Apr-2013 09:02:47] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 19
+[19-Apr-2013 09:03:37] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 19
+[19-Apr-2013 09:03:39] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 19
+[19-Apr-2013 09:04:07] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 19
+[19-Apr-2013 09:04:09] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 19
+[19-Apr-2013 09:04:19] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 19
+[19-Apr-2013 09:06:00] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 19
+[19-Apr-2013 09:28:00] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 32
+[19-Apr-2013 09:28:38] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 32
+[19-Apr-2013 09:28:41] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 32
+[19-Apr-2013 09:30:17] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 32
+[19-Apr-2013 09:30:38] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 32
+[19-Apr-2013 09:31:14] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 32
+[19-Apr-2013 09:32:59] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 32
+[19-Apr-2013 09:33:00] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 32
+[19-Apr-2013 09:33:00] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 32
+[19-Apr-2013 09:33:01] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 32
+[19-Apr-2013 09:34:02] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 32
+[19-Apr-2013 09:35:29] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 32
+[19-Apr-2013 09:35:30] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 32
+[19-Apr-2013 09:35:30] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 32
+[19-Apr-2013 09:37:06] PHP Parse error:  syntax error, unexpected '<' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 42
+[19-Apr-2013 09:37:07] PHP Parse error:  syntax error, unexpected '<' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 42
+[19-Apr-2013 09:37:28] PHP Parse error:  syntax error, unexpected '<' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 42
+[19-Apr-2013 09:37:29] PHP Parse error:  syntax error, unexpected '<' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 42
+[19-Apr-2013 09:37:30] PHP Parse error:  syntax error, unexpected '<' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 42
+[19-Apr-2013 09:37:36] PHP Parse error:  syntax error, unexpected '<' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 42
+[19-Apr-2013 09:40:14] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 32
+[19-Apr-2013 09:41:15] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 32
+[19-Apr-2013 09:41:57] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 33
+[19-Apr-2013 12:17:46] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 33
+[19-Apr-2013 12:18:56] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 32
+[19-Apr-2013 12:18:57] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 32
+[19-Apr-2013 12:20:14] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 32
+[19-Apr-2013 12:20:52] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 32
+[19-Apr-2013 12:25:22] PHP Parse error:  syntax error, unexpected ')' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 32
+[19-Apr-2013 12:44:38] PHP Parse error:  syntax error, unexpected '}' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 79
+[19-Apr-2013 12:49:16] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/email.php on line 52
+[21-Apr-2013 21:46:38] PHP Fatal error:  Call to undefined function  curpageurl() in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/index.php on line 47
+[22-Apr-2013 07:16:32] PHP Fatal error:  Call to undefined function  curpageurl() in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/index.php on line 47
+[22-Apr-2013 08:12:18] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 16:35:38] PHP Fatal error:  Call to undefined function  curpageurl() in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/index.php on line 49
+[22-Apr-2013 17:07:18] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 17:07:22] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 17:07:24] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 17:07:25] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 17:07:26] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 17:07:27] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 17:07:28] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 17:07:28] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 17:07:29] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 17:07:46] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 19:28:43] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 19:31:32] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 19:31:35] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 19:31:58] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 19:32:48] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 20:52:09] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 20:52:11] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 20:52:17] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 20:52:48] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 20:53:02] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 20:53:06] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 20:53:10] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 20:53:35] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[22-Apr-2013 20:55:36] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 2
+[23-Apr-2013 07:32:11] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/title.php on line 16
+[23-Apr-2013 07:32:32] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/title.php on line 16
+[23-Apr-2013 07:32:35] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/title.php on line 16
+[23-Apr-2013 07:32:50] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/title.php on line 16
+[23-Apr-2013 07:32:52] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/title.php on line 16
+[23-Apr-2013 07:32:54] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/title.php on line 16
+[23-Apr-2013 07:32:57] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/title.php on line 16
+[23-Apr-2013 07:33:13] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/title.php on line 16
+[23-Apr-2013 07:33:16] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/title.php on line 16
+[23-Apr-2013 07:33:18] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/title.php on line 16
+[23-Apr-2013 07:33:20] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/title.php on line 16
+[23-Apr-2013 07:33:27] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/title.php on line 16
+[23-Apr-2013 07:46:52] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 34
+[23-Apr-2013 07:46:54] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 34
+[23-Apr-2013 07:46:55] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 34
+[23-Apr-2013 07:47:01] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 34
+[23-Apr-2013 07:47:16] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 34
+[23-Apr-2013 07:47:23] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 34
+[23-Apr-2013 07:47:27] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 34
+[23-Apr-2013 07:47:30] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 34
+[23-Apr-2013 07:48:51] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 34
+[23-Apr-2013 07:48:52] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 34
+[23-Apr-2013 07:48:55] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 34
+[23-Apr-2013 07:48:58] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 34
+[23-Apr-2013 07:49:13] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 34
+[23-Apr-2013 07:49:13] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 34
+[23-Apr-2013 07:49:14] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 34
+[23-Apr-2013 07:49:14] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 34
+[23-Apr-2013 07:49:15] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 34
+[23-Apr-2013 07:50:05] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 34
+[23-Apr-2013 07:50:07] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 34
+[23-Apr-2013 07:50:07] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 34
+[23-Apr-2013 07:51:23] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 33
+[23-Apr-2013 07:52:27] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 33
+[23-Apr-2013 07:52:35] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 33
+[23-Apr-2013 07:53:30] PHP Parse error:  syntax error, unexpected '{' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/aide.php on line 32
+[23-Apr-2013 08:12:25] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1519
+[23-Apr-2013 08:12:26] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1519
+[23-Apr-2013 08:12:27] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1519
+[23-Apr-2013 08:12:28] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1519
+[23-Apr-2013 08:12:57] PHP Parse error:  syntax error, unexpected T_ELSE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1465
+[23-Apr-2013 08:13:00] PHP Parse error:  syntax error, unexpected T_ELSE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1465
+[23-Apr-2013 08:13:02] PHP Parse error:  syntax error, unexpected T_ELSE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1465
+[23-Apr-2013 08:13:05] PHP Parse error:  syntax error, unexpected T_ELSE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1465
+[23-Apr-2013 08:13:05] PHP Parse error:  syntax error, unexpected T_ELSE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1465
+[23-Apr-2013 08:13:19] PHP Parse error:  syntax error, unexpected T_ELSE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1477
+[23-Apr-2013 08:13:20] PHP Parse error:  syntax error, unexpected T_ELSE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1477
+[23-Apr-2013 09:09:51] PHP Parse error:  syntax error, unexpected $end in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 154
+[23-Apr-2013 12:32:19] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1827
+[23-Apr-2013 12:32:30] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1827
+[23-Apr-2013 12:33:02] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1827
+[23-Apr-2013 12:33:31] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1827
+[23-Apr-2013 12:34:22] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1827
+[07-May-2013 11:03:40] PHP Fatal error:  Call to undefined function  curpageurl() in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/index.php on line 55
+[07-May-2013 17:31:27] PHP Parse error:  syntax error, unexpected '<' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererprofs.php on line 67
+[07-May-2013 17:31:29] PHP Parse error:  syntax error, unexpected '<' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererprofs.php on line 67
+[07-May-2013 18:03:48] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererusers.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererusers.php on line 2
+[07-May-2013 18:03:52] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererusers.php:1) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererusers.php on line 2
+[07-May-2013 18:22:27] PHP Warning:  Invalid argument supplied for foreach() in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererusers.php on line 35
+[07-May-2013 18:48:56] PHP Fatal error:  Call to undefined function  curpageurl() in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/index.php on line 55
+[20-May-2013 01:03:41] PHP Fatal error:  Call to undefined function  curpageurl() in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/index.php on line 55
+[23-May-2013 13:17:12] PHP Fatal error:  Call to undefined function  curpageurl() in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/index.php on line 55
+[27-May-2013 12:10:27] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererprofs.php on line 43
+[27-May-2013 12:10:30] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererprofs.php on line 43
+[27-May-2013 12:10:33] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererprofs.php on line 43
+[27-May-2013 12:10:38] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererprofs.php on line 43
+[27-May-2013 12:10:40] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererprofs.php on line 43
+[27-May-2013 12:40:00] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererprofs.php on line 41
+[27-May-2013 12:40:02] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererprofs.php on line 41
+[27-May-2013 13:24:18] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererprofs.php on line 43
+[27-May-2013 13:24:20] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererprofs.php on line 43
+[27-May-2013 13:24:31] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererprofs.php on line 43
+[27-May-2013 13:24:54] PHP Parse error:  syntax error, unexpected $end in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererprofs.php on line 190
+[17-Aug-2013 14:49:17] PHP Fatal error:  Call to undefined function  curpageurl() in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/index.php on line 53
+[14-Mar-2014 21:19:47 America/Denver] PHP Notice:  Undefined variable: listeEmail in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererusers.php on line 141
+[14-Mar-2014 21:20:04 America/Denver] PHP Notice:  Undefined variable: listeEmail in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererusers.php on line 141
+[15-Mar-2014 12:31:55 America/Denver] PHP Notice:  Undefined variable: listeEmail in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererusers.php on line 141
+[15-Mar-2014 13:30:09 America/Denver] PHP Fatal error:  Call to undefined function curPageURL() in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/index.php on line 53
+[15-Mar-2014 13:30:42 America/Denver] PHP Notice:  Undefined variable: listeEmail in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererprofs.php on line 24
+[15-Mar-2014 13:30:59 America/Denver] PHP Notice:  Undefined variable: listeEmail in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererusers.php on line 141
+[15-Mar-2014 13:31:11 America/Denver] PHP Notice:  Undefined variable: listeEmail in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererusers.php on line 141
+[15-Mar-2014 13:31:21 America/Denver] PHP Notice:  Undefined variable: listeEmail in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/gererusers.php on line 141

@@ -1,0 +1,429 @@
+/* !!! CSS ADMIN !!! */
+
+/* Polices personnalisées */
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+@font-face {font-family:"Butter unsalted";src:url("polices/ButterUnsalted.eot?") format("eot"),url("polices/ButterUnsalted.woff") format("woff"),url("polices/ButterUnsalted.ttf") format("truetype"),url("polices/ButterUnsalted.svg#Butter-unsalted") format("svg");font-weight:normal;font-style:normal;}
+
+
+
+
+
+/* Alignement général */
+
+html{
+	background-color: #222222;
+}
+body{
+	margin: 0px;
+	
+}
+
+#connect{
+	
+	text-align: center;
+	color: white;
+	width: 250px;
+	margin: 90px auto;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 10pt;
+	background-color: #424242;
+	padding: 15px;
+	box-shadow: 0px 0px 300px black;
+}
+
+#connect h1{
+	position: relative;
+	left: -15px;
+	height: 50px;
+	vertical-align: center;
+	color: #ededed;
+	font-family: "Butter unsalted";
+	width: 280px;
+	text-shadow: 1px 1px 0px black;
+}
+
+#connect input{
+	font-size: 15pt;
+}
+
+#contenu{
+	background-color: #ededed;
+	padding: 10px;
+}
+
+
+
+/*TABLEAU*/
+table{
+	border-collapse: collapse;
+
+}
+
+th{
+	background-color: #212121;
+	color: white;
+	font-family: "Open Sans", sans;
+	font-size: 10pt;
+	padding: 5px;
+	border: 1px solid rgba(255,255,255,0.2);
+}
+td{
+	font-family: "Open Sans", sans;
+	font-size: 10pt;
+	border: 1px solid rgba(97,97,97,0.2);
+	background-color: #f2f2f2;
+	padding: 4px;
+}
+
+.jour{
+	width: 20px;
+	font-size: 15pt;
+}
+
+/* Couleur et dimensions options */
+#options{
+	background-color: white;
+	border-radius: 2px;
+	padding: 10px;
+	background-color: white;
+}
+
+/* Polices pour presque (sauf le titre) tous les éléments*/
+h2, h3, h4, h5, h6{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	color: #565656;
+	text-shadow: 0px 1px 0px white;
+}
+#contenu{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+}
+/*navigation*/
+nav {  
+	position:relative;
+	display: inline-block;
+}  
+nav li {  
+    display: inline;  
+    list-style: none;  
+	margin-left: 10px;
+	margin-right: 9px;
+}  
+nav a {  
+    display:inline-block;  
+	font-family: "Butter unsalted", sans-serif;
+	font-size: 14pt;
+	text-decoration: none;
+	color: white;
+}  
+
+nav a:hover{
+	padding: 0px;
+	text-shadow: 0px 0px 5px rgba(0,0,0,0.3);
+}
+
+navadmin{
+	padding: 0px;
+}
+
+header{
+	background-color: #0087EF;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+#title_block{
+	display: inline-block;
+}
+
+#title_block h1{
+	color: white;
+	font-family: "Butter unsalted", sans;
+	
+}
+
+/* Navigation des cycles */
+
+#nav-cycles ul, #nav-cycles{
+  list-style: none;
+  margin: 0px; padding: 0px;
+  margin-bottom: 10px;
+  min-width: 80px;
+  max-width: 100px;
+}
+
+#nav-cycles h2{
+  margin: 0px; padding: 0px;
+  background-color: #D3D3D3;
+  min-width: 80px;
+  max-width: 100px;
+  border-radius: 3px;
+}
+
+#nav-cycles h2:hover{
+	background-color: #0087ef;
+	color: white;
+	text-shadow: none;
+}
+#nav-cycles a{
+	text-decoration: none;
+	text-align: center;
+}
+
+#nav-cycles li ul{
+	position: absolute;
+}
+
+#nav-cycles li ul li{
+ 	display: none;
+}
+
+#nav-cycles li:hover ul li{
+ 	display: inline; 
+}
+
+#nav-cycles ul li a{
+  text-decoration: none;
+  text-align: left;
+  color: #000000;
+  display: block;
+  height: 23px;
+  background-color: #ededed;
+  padding-left: 10px;
+  border-right: 1px solid #c1c1c1;
+  border-left: 1px solid #c1c1c1;
+}
+
+#nav-cycles ul li:hover a{
+	color: #ffffff;
+	background-color: #0087EF;
+}
+
+/* STYLE DES OPTIONS (MATIÈRES ET INFORMATIONS ET BOUTON SOUMETTRE) */
+
+#informations{
+	font-size: 12pt;
+	vertical-align: middle;
+	padding: 20px;
+}
+
+#informations form{
+}
+
+#matieres{
+	display: inline-block;
+	width: 200px;
+	vertical-align: middle;
+	padding: 20px;
+}
+
+#soumettre{
+	display: inline-block;
+	vertical-align: bottom;
+}
+
+#soumettre input{
+	width: 200px;
+	height: 50px;
+	font-family: "butter unsalted";
+	font-weight: bold;
+	font-size: 20pt;
+	background-color: #ededed;
+	text-decoration: none;
+	text-shadow: 0px 1px 1px white;
+	border: none;
+}
+
+#soumettre input:hover{
+	background-color: #0087EF;
+	color: white;
+	text-shadow: none;
+}
+
+#connexion{
+	font-family: "butter unsalted";
+	font-weight: bold;
+	border: none;
+	color: white;
+	background-color: #0087EF;
+	text-shadow: none;
+	font-size: 12pt;
+	border-radius: 2px;
+	padding: 3px;
+}
+
+#deconnexion{
+	font-family: "butter unsalted";
+	font-weight: bold;
+	border: none;
+	color: white;
+	background-color: #C90000;
+	text-shadow: none;
+	font-size: 12pt;
+	text-decoration: none;
+	border-radius: 2px;
+	padding: 3px;
+}
+
+/*Spécial pour bouton déconnexion dans header */
+
+#decobox{
+	position: absolute;
+	width: 100px;
+	right: 30px;
+	top: 83px;
+}
+#decobox #deconnexion{
+	font-size: 14pt;
+	border-radius: 2px;
+	padding: 3px;
+}
+#info_user{
+	display: inline-block;
+	width: 43%;
+}
+
+#loginlogout{
+	display: inline-block;
+	right: 0px;
+	text-align: right;
+	padding: 0px;
+	width: 55%;
+}
+#supprimer{
+	font-family: "butter unsalted";
+	font-weight: bold;
+	border: none;
+	color: white;
+	background-color: #C90000;
+	text-shadow: none;
+	font-size: 12pt;
+}
+
+/*COULEUR DES CHAMPS REQUIS*/
+:required
+{
+	border: 1px solid #0087EF;
+}
+
+#form_gereroptions{
+	display: inline-block;
+	width: 250px;
+	vertical-align: bottom;
+	margin-bottom: 0px;
+}
+
+#tableGererOptions{
+	display: inline-block;
+	vertical-align: top;
+}
+
+#ajouterProf{
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 20px;
+}
+
+#tableProfs{
+	display: inline-block;
+	vertical-align: top;
+}
+
+/* COULEURS*/
+	
+	#rouge{
+		background-color: #ff0f2a;
+		width: 50px;
+	}
+	
+	#bleu{
+		background-color: #4a6cff;	
+		width: 50px;
+	}
+	
+	#vertlime{
+		background-color: #a7df00;
+		width: 50px;
+	}
+	
+	#vertfonce{
+		background-color: #2db814;
+		width: 50px;
+	}
+	
+	#orange{
+		background-color: #ef7200;
+		width: 50px;
+	}
+	
+	#rose{
+		background-color: #f00084;
+		width: 50px;
+	}
+	
+	#gris{
+		background-color: #cccccc;
+		width: 50px;
+	}
+	
+	#blanc{
+		background-color: #ffffff;
+		width: 50px;
+	}
+	
+	#beige{
+		background-color: #e6b950;
+		width:50px;
+	}
+	
+	#mauve{
+		background-color: #cd44ff;
+		width: 50px;
+	}
+	
+	#bleuclair{
+		background-color: #77d9ff;
+		width: 50px
+	}
+	
+	#jaune{
+		background-color: #ffed0f;
+		width: 50px;
+	}
+	
+	#rangee1, #rangee2, #rangee3{
+		display: inline-block;
+		width: 50px;
+	}
+#logoadmin{
+	max-width: 250px;
+}
+
+#colonne1, #colonne2, #colonne3{
+	display: inline-block;
+	vertical-align: top;
+	width: 300px;
+}
+
+#blockaide{
+	width: 640px;
+	padding-left: 20px;
+	text-align: justify;
+	text-shadow: 0px 1px 0px white;
+}
+
+#credits{
+	text-align:center; background-color: rgba( 255, 255, 255, 0); font-size: 10pt; font-family: "Open Sans", sans;
+}
+
+#gererusers_gauche{
+	display: inline-block;
+	width: auto;
+	vertical-align: top;
+}
+
+#gererusers_droite{
+	display: inline-block;
+	width: 400px;
+}

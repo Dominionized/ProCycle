@@ -1,0 +1,22 @@
+h1#titre_table
+{
+	font-size: 1.5em;
+}
+
+table#annee
+{
+	
+}
+
+table#annee td
+{
+	border: 1px solid black;
+}
+
+table#annee th
+{
+	border: 1px solid black;
+	background-color: #C1C1C1;
+}
+
+

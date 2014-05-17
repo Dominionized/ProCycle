@@ -1,0 +1,62 @@
+[17-Apr-2013 08:00:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/style.php:2) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/style.php on line 3
+[17-Apr-2013 08:00:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/style.php:2) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/style.php on line 3
+[17-Apr-2013 08:00:30] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/style.php:2) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/style.php on line 3
+[17-Apr-2013 08:27:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/style.php:2) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/style.php on line 3
+[17-Apr-2013 08:27:31] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/style.php:2) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/style.php on line 3
+[17-Apr-2013 08:27:32] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/style.php:2) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/style.php on line 3
+[17-Apr-2013 12:53:46] PHP Parse error:  syntax error, unexpected ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1325
+[17-Apr-2013 12:53:56] PHP Parse error:  syntax error, unexpected ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1325
+[17-Apr-2013 12:54:07] PHP Parse error:  syntax error, unexpected ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1325
+[17-Apr-2013 12:54:16] PHP Parse error:  syntax error, unexpected ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1325
+[17-Apr-2013 12:54:20] PHP Parse error:  syntax error, unexpected ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1325
+[17-Apr-2013 12:54:21] PHP Parse error:  syntax error, unexpected ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1325
+[17-Apr-2013 12:54:22] PHP Parse error:  syntax error, unexpected ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1325
+[17-Apr-2013 12:54:22] PHP Parse error:  syntax error, unexpected ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1325
+[17-Apr-2013 12:54:22] PHP Parse error:  syntax error, unexpected ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1325
+[17-Apr-2013 12:54:25] PHP Parse error:  syntax error, unexpected ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1325
+[17-Apr-2013 12:54:44] PHP Parse error:  syntax error, unexpected ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1333
+[17-Apr-2013 12:54:48] PHP Parse error:  syntax error, unexpected ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1333
+[17-Apr-2013 12:54:54] PHP Parse error:  syntax error, unexpected ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1333
+[18-Apr-2013 14:02:53] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/forget.php on line 122
+[18-Apr-2013 14:02:54] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/forget.php on line 122
+[18-Apr-2013 14:02:58] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/forget.php on line 122
+[18-Apr-2013 14:03:01] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/forget.php on line 122
+[18-Apr-2013 14:03:27] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/forget.php on line 122
+[18-Apr-2013 14:03:28] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/forget.php on line 122
+[18-Apr-2013 14:04:16] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/forget.php on line 122
+[18-Apr-2013 14:07:48] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/forget.php on line 122
+[18-Apr-2013 14:07:54] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/forget.php on line 121
+[18-Apr-2013 14:07:55] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/forget.php on line 121
+[18-Apr-2013 14:08:09] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/forget.php on line 121
+[18-Apr-2013 14:09:08] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/forget.php on line 121
+[18-Apr-2013 14:09:13] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/forget.php on line 121
+[18-Apr-2013 16:21:16] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/forget.php on line 121
+[18-Apr-2013 17:04:39] PHP Parse error:  syntax error, unexpected '@' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/forget.php on line 123
+[18-Apr-2013 17:04:42] PHP Parse error:  syntax error, unexpected '@' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/forget.php on line 123
+[18-Apr-2013 17:09:35] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/test.php on line 3
+[18-Apr-2013 17:09:38] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/test.php on line 3
+[18-Apr-2013 17:10:03] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/test.php on line 3
+[18-Apr-2013 17:10:26] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/test.php on line 3
+[18-Apr-2013 17:31:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/jdesmara/public_html/jdhosts/wpatry/ph/forget.php:7) in /home2/jdesmara/public_html/jdhosts/wpatry/ph/forget.php on line 38
+[19-Apr-2013 08:13:27] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/includes/title.php on line 12
+[19-Apr-2013 08:13:28] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/includes/title.php on line 12
+[19-Apr-2013 08:15:03] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/includes/title.php on line 8
+[19-Apr-2013 08:15:06] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/includes/title.php on line 8
+[19-Apr-2013 09:08:59] PHP Parse error:  syntax error, unexpected T_STRING in /home2/jdesmara/public_html/jdhosts/wpatry/ph/test.php on line 2
+[19-Apr-2013 09:09:38] PHP Parse error:  syntax error, unexpected T_STRING in /home2/jdesmara/public_html/jdhosts/wpatry/ph/test.php on line 2
+[19-Apr-2013 09:27:39] PHP Parse error:  syntax error, unexpected T_STRING in /home2/jdesmara/public_html/jdhosts/wpatry/ph/test.php on line 2
+[23-Apr-2013 08:12:37] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1519
+[23-Apr-2013 08:13:04] PHP Parse error:  syntax error, unexpected T_ELSE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1465
+[23-Apr-2013 08:13:36] PHP Parse error:  syntax error, unexpected T_ELSE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1477
+[23-Apr-2013 08:13:46] PHP Parse error:  syntax error, unexpected T_ELSE in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1477
+[23-Apr-2013 12:31:53] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1827
+[23-Apr-2013 12:31:54] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1827
+[23-Apr-2013 12:49:58] PHP Fatal error:  Call to undefined function  generergrillecycle() in /home2/jdesmara/public_html/jdhosts/wpatry/ph/includes/horaire.php on line 3
+[23-Apr-2013 13:01:06] PHP Fatal error:  Call to undefined function  generergrillecycle() in /home2/jdesmara/public_html/jdhosts/wpatry/ph/includes/horaire.php on line 3
+[23-Apr-2013 13:06:49] PHP Parse error:  syntax error, unexpected $end in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 228
+[23-Apr-2013 19:54:23] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1826
+[23-Apr-2013 19:54:25] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1826
+[23-Apr-2013 19:54:56] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1826
+[23-Apr-2013 19:54:57] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1826
+[07-May-2013 11:36:28] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home2/jdesmara/public_html/jdhosts/wpatry/ph/includes/delete.php on line 36
+[20-May-2013 12:54:11] PHP Warning:  htmlentities() [<a href='function.htmlentities'>function.htmlentities</a>]: charset `ANSI' not supported, assuming iso-8859-1 in /home2/jdesmara/public_html/jdhosts/wpatry/ph/admin/includes/fonctions.php on line 1803
